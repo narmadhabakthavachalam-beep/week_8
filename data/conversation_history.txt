@@ -1,0 +1,18 @@
+
+Local LLM Conversation History
+Model: Llama 3.2
+
+User: Explain Artificial Intelligence in simple words
+Assistant: AI enables computers to perform tasks such as learning, understanding language, and making decisions.
+
+User: What are the advantages of local Large Language Models?
+Assistant: Local LLMs can provide privacy, offline access, and control over data.
+
+User: Explain Python in simple words
+Assistant: Python is a programming language used to give instructions to computers.
+
+User: What is Machine Learning?
+Assistant: Machine Learning allows computers to learn patterns from data.
+
+User: Explain the difference between AI and Machine Learning
+Assistant: AI is the broader field of making machines intelligent. Machine Learning is a part of AI that learns from data.
