@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Local LLM Inference
 
@@ -27,3 +28,6 @@ Llama 3.2
 
 ## Output
 The generated responses are saved in data/llm_responses.csv.
+=======
+# week_8
+>>>>>>> c713023fd15b6c26f8f4217ea6dbec10da0d8221
